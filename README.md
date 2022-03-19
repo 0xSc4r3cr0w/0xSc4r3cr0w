@@ -1,4 +1,4 @@
-<h1 align="left">Opa, eu sou Neko Cat <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px"></h1>
+<h1 align="left">Opa, eu sou Neko Link <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px"></h1>
 
 <a href="https://linktr.ee/daragoon" target="_blank">
   <img align="center" src="https://img.shields.io/badge/linktree-1de9b6?style=for-the-badge&logo=linktree&logoColor=white" alt="linktree" />
@@ -19,6 +19,6 @@
 ## GitHub Analytics
 <img align="right" height="280em" src="https://tenor.com/view/link-zelda-pusheen-snes-cat-gif-13297885.gif"/>
 <p align="left">
-  <img width="500em" src="https://github-readme-stats.vercel.app/api?username=nekocat&show_icons=true&theme=tokyonight" alt="daragoon's stats"/>
-  <img width="500em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nekocat&layout=compact&theme=tokyonight" alt="daragoon's most languages"/>
+  <img width="500em" src="https://github-readme-stats.vercel.app/api?username=nekolink&show_icons=true&theme=tokyonight" alt="daragoon's stats"/>
+  <img width="500em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nekolink&layout=compact&theme=tokyonight" alt="daragoon's most languages"/>
 </p>
