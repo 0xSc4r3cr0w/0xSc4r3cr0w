@@ -19,6 +19,6 @@
 ## GitHub Analytics
 <img align="right" height="280em" src="https://tenor.com/view/link-zelda-pusheen-snes-cat-gif-13297885.gif"/>
 <p align="left">
-  <img width="550em" src="https://github-readme-stats.vercel.app/api?username=daragoon&show_icons=true&theme=tokyonight" alt="daragoon's stats"/>
-  <img width="550em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=daragoon&layout=compact&theme=tokyonight" alt="daragoon's most languages"/>
+  <img width="500em" src="https://github-readme-stats.vercel.app/api?username=daragoon&show_icons=true&theme=tokyonight" alt="daragoon's stats"/>
+  <img width="500em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=daragoon&layout=compact&theme=tokyonight" alt="daragoon's most languages"/>
 </p>
