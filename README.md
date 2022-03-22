@@ -1,6 +1,6 @@
 <h1 align="left">Opa, eu sou Neko Link <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px"></h1>
 
-<a href="https://linktr.ee/daragoon" target="_blank">
+<a href="https://linktr.ee/nekolink" target="_blank">
   <img align="center" src="https://img.shields.io/badge/linktree-1de9b6?style=for-the-badge&logo=linktree&logoColor=white" alt="linktree" />
 </a>
 
